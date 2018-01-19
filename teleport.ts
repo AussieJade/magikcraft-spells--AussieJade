@@ -7,4 +7,5 @@ function teleport() {
     } else {
         const here = magik.hic();
         magik.memento(here);
-    }
+        }
+}
